@@ -1,0 +1,3 @@
+﻿  source.cpp
+C:\Users\Pranav\source\repos\assignment\assignment\source.cpp(15,23): error C3861: 'cos': identifier not found
+C:\Users\Pranav\source\repos\assignment\assignment\source.cpp(16,23): error C3861: 'sin': identifier not found
